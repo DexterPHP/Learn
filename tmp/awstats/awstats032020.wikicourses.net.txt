@@ -1,0 +1,1038 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202003 will be lost/reset.
+# Last config file used to build this data file was /home/wikicourses/tmp/awstats/awstats.wikicourses.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2696                
+POS_VISITOR 16395               
+POS_DAY 30786               
+POS_DOMAIN 3463                
+POS_LOGIN 3851                
+POS_ROBOT 4006                
+POS_WORMS 4654                
+POS_EMAILSENDER 4785                
+POS_EMAILRECEIVER 4928                
+POS_SESSION 31229               
+POS_SIDER 31408               
+POS_FILETYPES 5063                
+POS_DOWNLOADS 5353                
+POS_OS 5548                
+POS_BROWSER 5832                
+POS_SCREENSIZE 7502                
+POS_UNKNOWNREFERER 7576                
+POS_UNKNOWNREFERERBROWSER 8529                
+POS_ORIGIN 8695                
+POS_SEREFERRALS 8833                
+POS_PAGEREFS 9023                
+POS_SEARCHWORDS 9266                
+POS_KEYWORDS 9427                
+POS_MISC 2360                
+POS_ERRORS 9495                
+POS_CLUSTER 3707                
+POS_SIDER_404 9662                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200401000039 125 29098 8654557594001
+FirstTime 20200316223723
+LastTime 20200331233850
+LastUpdate 20200401162219 125 0 124 0 0
+TotalVisits 313                 
+TotalUnique 234                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 444                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 2 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 33 98139 13 13 6263
+1 8 12 64038 23 23 5506
+2 8 8 12846 45 47 17137
+3 42 57 497494 25 26 11460
+4 13 13 20451 30 31 8417
+5 10 51 1202921 24 47 1185123
+6 6 6 2185 2 3 623
+7 12 36 1165550 5 10 2629
+8 17 18 18691 46 47 21012
+9 19 88 2303267 34 40 6738
+10 36 56 646473 6 6 13784
+11 16 39 1184704 63 75 308935
+12 38 48 331981 40 41 3801
+13 11 49 279791 19 20 32186
+14 9 9 19299 57 57 10919
+15 11 27 486233 33 34 4814
+16 6 22 477899 3 10 70321
+17 5 5 7445 26 27 187753
+18 14 30 490936 34 34 19753
+19 47 64 548372 11 12 666
+20 29 47 757469 47 61 305947
+21 53 114 2661450 39 47 63200
+22 53 108 1918528 23 33 76495
+23 20 68 2015529 15 16 342817
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 315 730 13567819
+it 67 67 36801
+cn 50 50 7825
+eu 28 105 3576121
+ca 13 13 7789
+nl 12 12 7476
+ru 4 4 936
+gb 3 6 2118
+in 2 16 2311
+fr 2 2 1246
+es 1 1 313
+ie 1 1 313
+cz 1 1 623
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+Googlebot/ 66 267586 20200331232133 7
+crawl 27 1174543 20200331054203 0
+bingpreview 14 298194 20200326113828 0
+no_user_agent 13 27068 20200331184223 0
+Wget/ 9 29581 20200331234419 0
+(firefox/)([0-9]\.|[0-1][0]\.) 6 18461 20200330132634 0
+unknown 4 96 20200331070254 4
+bingbot/ 4 6440 20200331193717 2
+DomainSONOCrawler/ 3 3973 20200323171652 0
+spider 2 313 20200318072800 0
+curl 2 1246 20200321154625 0
+Mojolicious 2 3619 20200331111331 0
+msnbot/ 1 3196 20200326111935 0
+bot[\s_+:,\.\;\/\\-] 1 313 20200322023910 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+woff 6 573037 0 0
+html 377 529537 0 0
+jpg 112 7350604 0 0
+css 128 1045062 0 0
+ttf 56 2743492 0 0
+png 137 1970599 0 0
+env 2 1088 0 0
+js 115 1138636 0 0
+woff2 24 1697562 0 0
+Unknown 33 157143 0 0
+php 1 3617 0 0
+txt 17 1314 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/.well-known/pki-validation/359E9730F899B79A074DB7A3EE5E83F0.txt 16 0 1250
+/.well-known/pki-validation/DB091B19438436221A8FEBEE6D2110E3.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+winxp 9 8
+macosx11 1 1
+macosx9 3 3
+win8.1 13 6
+macosx10 2 2
+macosx 5 5
+unix 1 1
+Unknown 113 80
+win7 104 81
+win16 5 5
+win10 285 138
+winvista 1 1
+macosx12 1 1
+linux 329 91
+linuxandroid 62 18
+macosx6 1 1
+ios_iphone 73 57
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 83
+firefox65.0 2 2
+chrome80.0.3987.132 25 9
+chrome45.0.2454.94 1 1
+firefox 1 1
+chrome74.0.3729.169 7 7
+firefox54.0 1 1
+chrome80.0.3987.116 27 4
+firefox53.0 2 2
+chrome38.0.2125.101 13 4
+opera11.51 1 1
+firefox36.0 57 57
+wap 1 1
+chrome41.0.2272.118 19 4
+msie11.0 4 4
+chrome41.0.2227.0 1 1
+chrome56.0.2924.87 1 1
+safari5.1 1 1
+firefox68.0 1 1
+firefox74.0 46 19
+chrome41.0.2225.0 1 1
+chrome76.0.3809.100 7 3
+firefox47.0 1 1
+edge14 1 1
+msie6.0 4 4
+chrome41.0.2224.3 1 1
+safari13.0.5 21 5
+chrome12.0.742.122 1 1
+firefox46.0 2 2
+chrome11.0.696.71 4 4
+chrome41.0.2228.0 1 1
+firefox73.0 1 1
+chrome63.0.3239.132 16 16
+chrome31.0.1650.57 1 1
+chrome60.0.3112.113 1 1
+chrome40.0.2214.85 1 1
+chrome66.0.3359.181 1 1
+chrome77.0.3865.120 1 1
+opera12.0 1 0
+safari10.0 1 1
+chrome80.0.3987.149 179 54
+msie9.0 4 2
+chrome79.0.3945.130 1 1
+chrome54.0.2840.71 1 1
+chrome78.0.3904.70 25 6
+chrome79.0.3945.117 2 2
+chrome58.0.3029.110 2 2
+chrome78.0.3904.97 9 9
+chrome67.0.3396.79 5 5
+chrome49.0.2623.75 8 4
+Unknown 35 18
+msie8.0 21 6
+firefox49.0 1 1
+chrome55.0.2883.87 1 1
+chrome68.0.3440.106 2 2
+chrome78.0.3904.108 16 16
+firefox40.1 1 1
+firefox55.0 3 3
+chrome51.0.2704.64 1 1
+msie10.0 1 1
+firefox28.0 3 3
+firefox57.0 21 5
+safari11.0 1 1
+chrome70.0.3538.77 9 9
+cloudflare 30 30
+firefox50.0 4 2
+firefox63.0 1 1
+firefox71.0 1 1
+chrome5.0.375.53 1 1
+chrome37.0.2049.0 1 0
+chrome36.0.1985.67 1 1
+netscape5.0 57 57
+chrome76.0.3809.132 4 4
+safari13.0.1 1 1
+chrome35.0.1916.47 1 1
+firefox12.0 2 2
+chrome78.0.3882.0 215 40
+mozilla 41 25
+safari12.0 1 1
+firefox58.0 3 3
+chrome40.0.2214.115 7 1
+chrome40.0.2214.93 2 2
+chrome64.0.3282.167 1 1
+firefox51.0 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+PleskBot 20200325041920
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20200331221453
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20200322191511
+Mozilla/5.0_(compatible;_Wappalyzer) 20200322191514
+COMODO_DCV 20200317054945
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20200331221631
+Mozilla/5.0_(compatible;_ips-agent) 20200326041422
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20200331222358
+Go-http-client/1.1 20200330230630
+Mozilla/5.0_zgrab/0.x 20200331152426
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200322224201
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;_http://www.cloudflare.com/always-online) 20200322191504
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go-http-client/1.1 20200330230630
+PleskBot 20200325041920
+COMODO_DCV 20200317054945
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 315 350
+From1 0 0
+From2 4 4
+From3 3 3
+From4 177 651
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com 1 1
+www_google_fr 1 1
+bing 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://l.facebook.com 1 1
+http://stuffgate.com/wikicourses.net 1 1
+https://l.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+amazon 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+amazon 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+206 13 47295
+401 13 7514
+302 11 2493
+404 515 120687
+301 43 10620
+405 2 330957
+500 2 352104
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 162
+/plugins/system/debug/debug.xml 1 -
+/contact 5 http://wikicourses.net/
+/wp 1 -
+/index.htm 3 -
+/newsite/wp-includes/wlwmanifest.xml 1 -
+/vendor/phpunit/phpunit/build.xml 1 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/kill.php 1 -
+/%3Caudio%20src=1%20href=1%20onerror=%22javascript:confirm%28%27hi%27%29%22%3E%3C/audio%3E 1 http://wikicourses.net/
+/_adminer.php 1 -
+/dev/wp-includes/wlwmanifest.xml 1 -
+/wordpress/wp-includes/wlwmanifest.xml 19 -
+/status 1 http://wikicourses.net/
+/blog/robots.txt 1 -
+/shop/wp-includes/wlwmanifest.xml 12 -
+/sitemap.xml 1 -
+/services/logo_handler.ashx 1 http://wikicourses.net/
+/foo%0D%0A%0D%0A%22%3E%3Cscript%20src=//xss.mx%3E%3C/script%3E%3Cx=%22 1 http://wikicourses.net/
+/Desgin 3 http://wikicourses.net/
+/website/wp-includes/wlwmanifest.xml 13 -
+/0xb4d1d34%27%22%3E%3C/title%3E%3C/style%3E%3C/textarea%3E%3C/script%3E%3Cscript%3Ealert%60hello%60%3C/script%3E 1 http://wikicourses.net/
+/0x01%22%3E%3Cimg%20src=x%20onerror=alert%60hello%60%3E%22%3E 1 http://wikicourses.net/
+/.env.development.local 1 http://wikicourses.net/
+/admin/includes/general.js 1 -
+/privacy-policy.html 4 -
+/wp-includes/wlwmanifest.xml 19 -
+/cms/wp-includes/wlwmanifest.xml 19 -
+/Shibboleth.sso/Logout 1 http://wikicourses.net/
+/r.php 1 http://wikicourses.net/
+/~adminer.php 1 -
+/site 1 -
+/ads.txt 4 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/api/thumbnail 1 http://wikicourses.net/
+/home 1 -
+/privatekey.key 1 http://wikicourses.net/
+/sito/wp-includes/wlwmanifest.xml 12 -
+/new/wp-includes/wlwmanifest.xml 1 -
+/2015/wp-includes/wlwmanifest.xml 2 -
+/.env.production.local 1 http://wikicourses.net/
+/faq.html 3 -
+/wp2/wp-includes/wlwmanifest.xml 14 -
+/demo/wp-includes/wlwmanifest.xml 1 -
+/2019/wp-includes/wlwmanifest.xml 11 -
+/search 1 http://wikicourses.net/
+/site/wp-includes/wlwmanifest.xml 18 -
+/wp/wp-includes/wlwmanifest.xml 19 -
+/analytics/hit.php 1 http://wikicourses.net/
+/blogs/wp-includes/wlwmanifest.xml 1 -
+/demo 1 -
+/admin/view/javascript/common.js 1 -
+/redirect2 1 http://wikicourses.net/redirect2/
+/administrator/help/en-GB/toc.json 1 -
+/.env.dev.local 1 http://wikicourses.net/
+/adminer/adminer.php 1 -
+/en/wp-includes/wlwmanifest.xml 1 -
+/wikicourses.pem 1 http://wikicourses.net/
+/id_rsa 1 http://wikicourses.net/
+/MainCourse/MainCourse/Programming 2 -
+/config/database.yml 1 http://wikicourses.net/
+/Error.aspx 1 http://wikicourses.net/
+/administrator/ 1 -
+/2018/wp-includes/wlwmanifest.xml 13 -
+/out.php 1 http://wikicourses.net/
+/backup 1 -
+/tools/login/default.asp 1 http://wikicourses.net/
+/www/wp-includes/wlwmanifest.xml 1 -
+/foo%27%22%3E%3Cscript%20src=//xss.mx%3E%3C/script%3E%3Cx=%22 1 http://wikicourses.net/
+/key.pem 1 http://wikicourses.net/
+/terms.html 4 -
+/vendor/phpunit/phpunit/src/Util/PHP/kill.php 2 -
+/wp-admin 5 http://wikicourses.net/wp-login.php
+/wikicourses.key 1 http://wikicourses.net/
+/wikicourses.net.key 2 http://wikicourses.net/
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/js/header-rollup-554.js 1 -
+/adminer.php 1 -
+/wordpress 1 -
+/ad.php 1 -
+/2017/wp-includes/wlwmanifest.xml 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/MainCourse/MainCourse/Desgin 2 -
+/old/wp-includes/wlwmanifest.xml 1 -
+/test/wp-includes/wlwmanifest.xml 13 -
+/cms 1 -
+/robots.txt 7 -
+/news/wp-includes/wlwmanifest.xml 13 -
+/.env 2 -
+/web/wp-includes/wlwmanifest.xml 13 -
+/verify.html 3 -
+/foo%27%22%3E%3Cimg%20src= 1 http://wikicourses.net/
+/search/foo%22%3E%3Cscript%20src=//xss.mx%3E%3C/script%3E%3Cx=%22 1 http://wikicourses.net/
+/app/etc/local.xml 1 http://wikicourses.net/
+/0xb4d1d34%27%22%3E%3C/title%3E%3C/style%3E%3C/textarea%3E%3C/script%3E%3Cscript%20src=//xss.mx%3E%3C/script%3E 1 http://wikicourses.net/
+/actions/act_continueapplication.cfm 1 http://wikicourses.net/
+/media/wp-includes/wlwmanifest.xml 12 -
+/myserver.key 1 http://wikicourses.net/
+/main 1 -
+/misc/ajax.js 1 -
+/wp1/wp-includes/wlwmanifest.xml 12 -
+/wp-includes/js/jquery/jquery.js 1 -
+/search/Abdullah%20Almehmadi 1 -
+/%3E%3Cimg%20src= 3 -
+/Courses/Programming 3 http://wikicourses.net/MainCourse/Programming
+/cgi/set_lang 1 http://wikicourses.net/
+/xmlrpc.php 19 -
+/admin.php 5 -
+/wp-login.php 12 -
+/administrator/index.php 7 -
+/cgi-bin/ 18 http://wikicourses.net/
+/2016/wp-includes/wlwmanifest.xml 2 -
+/web 1 -
+/ui/clear-selected 1 http://wikicourses.net/ui/clear-selected/
+/home/wp-includes/wlwmanifest.xml 1 -
+/wp-json/wp/v2/users/ 1 -
+/admin/ 1 -
+/Home/Redirect 1 http://wikicourses.net/
+/.ssh/id_dsa 1 http://wikicourses.net/
+/new 1 -
+/store/wp-includes/wlwmanifest.xml 1 -
+/blog/wp-includes/wlwmanifest.xml 18 -
+/server-status 1 http://wikicourses.net/
+/1%27%22%3E%3Ciframe%20srcdoc=%27%3Cscript%20src=%22data:text/javascript,alert%28/hello/%29%22%3E%3C/script%3E%27%3E%3C/iframe%3E 1 http://wikicourses.net/
+/admin 6 -
+/beta/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/install.php 2 -
+/te3/signup.php 1 -
+/wp-admin/setup-config.php 1 -
+/e.html 1 http://wikicourses.net/
+/config/databases.yml 1 http://wikicourses.net/
+/.env.prod.local 1 http://wikicourses.net/
+/search/SearchResult.aspx 1 http://wikicourses.net/
+/simpla/ 1 -
+/js/mage/cookies.js 1 -
+/administrator/language/en-GB/install.xml 1 -
+/v2/wp-includes/wlwmanifest.xml 2 -
+/.git//index 4 -
+/.ssh/id_rsa 1 http://wikicourses.net/
+/store/app/etc/local.xml 1 http://wikicourses.net/
+/images/editor/separator.gif 1 -
+/admin/content/sitetree/ 1 -
+/spip.php 1 http://wikicourses.net/
+/adminer 1 -
+/security.txt 1 -
+/AddProduct.aspx 1 http://wikicourses.net/
+/administrator 5 -
+/backup/wp-includes/wlwmanifest.xml 1 -
+/vpn/../t/../vpns/./cfg/smb.conf 1 http://wikicourses.net/
+/wikicourses.net.pem 2 http://wikicourses.net/
+/v1/wp-includes/wlwmanifest.xml 2 -
+/test 1 -
+/manager/ 1 -
+/js/html5shiv.min.jsassets/js 1 -
+/%3e%3ch1%3e%3ca%20href=https:/evil.com%3eYour%20password%20is%20currently%20unsafe,%20please%20click%20the%20link%20to%20update%20the%20information%3c/a%3e%3c/h1%3e 1 http://wikicourses.net/%22%0D%0A/%3E%3Ch1%3E%3Ca%20href%3Dhttps://evil.com%3EYour%20password%20is%20currently%20unsafe,%20please%20click%20the%20link%20to%20update%20the%20information%3C/a%3E%3C/h1%3E/
+/.well-known/security.txt 1 -
+/old 1 -
+/id_dsa 1 http://wikicourses.net/
+/vendor/phpunit/phpunit/LICENSE 1 -
+/about.html 4 -
+/blog 1 -
+/portal/wp-includes/wlwmanifest.xml 2 -
+/jobs 1 http://wikicourses.net/jobs/
+/_wpeprivate/config.json 1 http://wikicourses.net/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 444
+87.0.5.33 57 57 18690 20200318220432
+221.229.218.152 50 50 7825 20200321103908
+212.32.226.18 12 12 7476 20200320023225
+158.69.54.207 11 11 6853 20200319212650
+172.68.62.223 10 11 431871 20200330100448
+162.158.38.75 9 9 290038 20200331223622
+162.158.38.87 9 14 684814 20200331223622
+162.158.38.77 9 9 291788 20200331223622
+162.158.38.57 6 6 20314 20200331131602
+93.63.162.100 6 6 3738 20200319033805
+172.68.94.37 5 6 123008 20200330100546
+172.68.94.67 5 9 308702 20200330100546
+172.68.62.121 5 5 16861 20200330100208
+172.68.94.229 5 8 432583 20200330003316
+172.68.94.13 4 6 72046 20200330000635
+162.158.74.192 4 4 13627 20200331222750
+34.71.0.22 3 3 1869 20200319115738
+35.225.135.171 3 3 1869 20200319115635
+172.68.142.128 3 3 10859 20200331001448
+84.17.50.140 3 3 1869 20200319042609
+104.198.238.1 3 3 1869 20200318121913
+162.158.146.151 3 4 146481 20200330121001
+172.68.143.207 3 3 10011 20200330161031
+172.69.234.141 3 3 10041 20200323185052
+198.98.56.102 3 3 939 20200321095223
+54.87.42.147 1 1 313 20200319191047
+172.68.143.99 1 1 0 20200322191504
+172.69.54.252 1 1 3347 20200323161515
+172.68.63.38 0 1 32109 
+188.114.102.85 1 1 3619 20200330052159
+108.162.229.241 1 1 3196 20200325152209
+104.128.63.109 2 2 1246 20200321193144
+52.215.15.29 1 1 313 20200321010747
+172.69.62.245 0 1 10365 
+162.158.38.15 2 16 62995 20200329214159
+141.101.104.224 0 1 1364 
+141.101.104.50 2 2 237562 20200323202016
+141.101.69.32 0 1 3447 
+172.68.94.49 0 2 20707 
+162.158.38.73 0 5 69528 
+162.158.38.69 0 9 210623 
+162.158.202.169 1 1 3619 20200331070313
+162.158.75.27 1 1 3196 20200324164341
+162.158.146.97 0 1 1926 
+141.101.69.30 0 1 1926 
+162.158.79.32 0 1 9833 
+141.101.76.145 0 1 9425 
+108.162.216.65 0 5 55858 
+162.158.74.152 0 2 19666 
+38.106.120.6 1 1 313 20200317074507
+162.158.154.136 1 1 41684 20200330052200
+162.158.38.39 0 9 13482 
+162.158.202.243 0 1 1926 
+172.68.65.225 1 1 254 20200322191510
+172.68.63.100 0 1 29785 
+172.68.94.103 0 3 41973 
+141.101.99.74 0 1 24903 
+108.162.229.245 0 2 49182 
+108.162.219.191 1 1 3618 20200330103923
+172.68.94.73 0 2 3512 
+172.68.62.91 1 1 12504 20200327011718
+172.68.63.44 1 1 41684 20200330095833
+162.158.111.220 0 1 1926 
+163.172.70.242 1 1 623 20200319020547
+172.69.23.30 1 1 3619 20200330202521
+141.101.76.133 0 1 30089 
+162.158.74.114 1 1 3620 20200331030918
+172.69.62.25 0 1 799 
+162.158.74.172 1 1 3617 20200331122259
+108.162.229.45 0 1 45707 
+108.162.216.233 0 2 6480 
+172.68.141.205 2 2 7245 20200331050423
+108.162.246.164 0 1 92409 
+34.214.254.103 1 1 314 20200318040058
+108.162.221.216 0 1 45707 
+173.245.54.204 1 1 41684 20200327234425
+188.114.102.79 0 1 46353 
+172.69.54.168 1 1 3619 20200331141830
+172.68.63.102 0 1 46353 
+188.114.103.224 0 1 3240 
+172.69.62.247 0 1 92409 
+162.158.106.105 1 1 41684 20200323182156
+162.158.38.19 0 9 3512 
+172.69.62.249 1 1 257 20200322191509
+108.162.245.7 0 1 799 
+104.243.43.102 1 1 12518 20200316223723
+162.158.78.193 1 1 256 20200322191511
+54.244.201.191 1 1 314 20200320035405
+172.69.63.148 1 1 254 20200322191509
+162.158.38.95 0 14 256319 
+162.158.111.16 0 1 801 
+172.69.63.200 0 1 3512 
+172.68.62.175 0 2 173725 
+141.101.104.200 0 2 1598 
+162.158.74.36 2 2 83368 20200327033708
+141.101.77.197 0 2 19666 
+172.69.68.54 0 3 23862 
+141.101.105.219 2 4 174091 20200331111000
+108.162.229.191 0 1 29785 
+162.158.38.89 0 9 5593 
+91.199.212.132 0 3 249 
+108.162.246.50 1 1 77162 20200323182155
+172.69.70.206 2 2 154322 20200331072146
+89.187.161.125 1 1 623 20200319064154
+172.69.63.176 2 2 80358 20200327234424
+162.158.158.98 0 1 5354 
+34.210.228.77 1 1 313 20200319180852
+172.69.63.224 0 1 51265 
+108.162.245.181 0 1 1918 
+172.68.143.105 1 1 3625 20200331130727
+162.158.146.205 0 1 10342 
+162.158.75.47 0 2 7024 
+162.158.107.168 1 1 3196 20200326013015
+141.101.76.91 0 1 1364 
+108.162.229.11 0 1 3240 
+162.158.202.43 0 1 8933 
+172.68.65.249 1 1 257 20200322191508
+172.69.68.174 0 4 86227 
+162.158.146.169 0 2 20396 
+172.68.94.43 0 2 5317 
+108.162.229.113 0 1 46353 
+172.68.65.135 0 1 24903 
+108.162.229.195 1 1 3618 20200331204514
+172.69.71.71 0 2 49806 
+162.158.202.115 1 1 3136 20200328233426
+162.158.62.154 1 1 3347 20200323211933
+145.249.23.130 1 1 313 20200317200333
+108.162.216.223 1 1 3618 20200331030907
+162.158.75.45 0 2 6894 
+162.158.107.172 1 1 41434 20200323182155
+162.158.38.99 1 1 3623 20200331223618
+162.158.107.28 0 1 19597 
+172.68.133.225 2 2 6818 20200330222117
+51.158.95.123 2 2 1246 20200319084134
+162.158.107.188 0 2 60178 
+162.158.107.130 0 1 1364 
+108.162.216.211 0 2 10634 
+172.69.68.144 2 2 7241 20200331072145
+162.158.38.51 0 5 182828 
+172.68.189.172 1 1 3617 20200331055353
+162.158.38.23 0 5 400309 
+172.69.62.85 0 1 24591 
+162.158.74.38 0 2 102530 
+141.101.99.122 0 1 114885 
+162.158.106.93 0 1 801 
+159.203.12.19 1 1 0 20200318044724
+172.68.62.133 0 1 4249 
+52.25.133.67 1 1 313 20200319180856
+162.158.74.68 1 1 3623 20200331030907
+188.114.103.234 0 1 1926 
+162.158.38.85 0 9 172137 
+162.158.119.58 1 1 3618 20200330121228
+172.69.63.58 1 1 254 20200322191509
+172.69.68.234 1 1 3132 20200328224220
+172.69.63.90 1 1 254 20200322191510
+141.101.77.131 0 1 2153 
+188.114.103.152 1 2 70499 20200330052200
+159.203.40.244 1 1 0 20200318044724
+162.158.255.217 1 1 0 20200330172507
+108.162.245.121 0 3 29499 
+108.162.229.175 0 1 5317 
+162.158.74.210 1 1 3618 20200331152426
+172.69.234.137 1 1 3347 20200323024851
+172.69.54.156 0 2 7024 
+172.69.71.85 0 1 29065 
+172.68.63.80 0 2 6480 
+162.158.146.73 0 1 5317 
+162.158.106.201 0 1 799 
+162.158.106.189 0 1 3447 
+141.101.105.161 0 1 24591 
+141.101.69.46 1 1 3618 20200330190805
+172.68.133.123 1 1 0 20200322191504
+108.162.221.84 0 2 26782 
+188.114.102.169 1 1 77162 20200330052200
+172.69.54.6 0 1 19597 
+162.158.146.199 0 1 30089 
+172.69.68.156 0 2 102530 
+172.69.70.188 0 2 3904 
+162.158.38.7 0 9 20707 
+18.222.210.167 1 1 313 20200317060048
+141.101.104.158 1 1 77162 20200322224200
+141.101.69.100 1 1 3617 20200331090603
+108.162.229.171 1 1 77162 20200331215621
+141.101.77.53 0 1 3447 
+172.69.68.158 0 2 23503 
+162.158.202.139 2 2 7253 20200331222358
+141.101.104.250 1 3 132899 20200322224201
+172.68.189.154 1 1 3622 20200331001449
+31.13.127.2 1 1 313 20200317010522
+172.68.94.139 0 3 31711 
+188.114.103.216 0 1 29785 
+62.210.10.77 1 1 623 20200319030954
+5.44.169.3 1 1 0 20200322092919
+172.69.63.10 1 1 257 20200322191509
+108.162.229.95 2 2 4163 20200331233850
+172.68.63.96 0 1 24903 
+141.101.69.84 0 2 49806 
+52.27.219.250 1 1 314 20200320035435
+172.68.132.50 1 1 544 20200331033437
+141.101.104.152 1 1 0 20200331060031
+108.162.221.66 0 1 29785 
+172.69.68.206 0 1 114885 
+40.76.35.32 2 2 626 20200321153959
+34.209.150.164 1 1 311 20200320033124
+65.154.226.220 2 2 626 20200318223048
+108.162.229.69 0 2 20707 
+162.158.111.94 0 1 29785 
+141.101.105.95 0 1 3447 
+108.162.216.193 0 2 184818 
+172.68.94.151 2 2 83368 20200330100546
+172.68.63.62 1 2 155753 20200330100207
+162.158.74.174 0 2 39194 
+141.101.105.63 0 1 29065 
+173.245.54.244 1 1 41434 20200327234424
+172.68.62.13 0 2 41620 
+172.68.62.31 0 3 58159 
+108.162.229.225 0 2 39796 
+141.101.69.190 1 1 3623 20200331215618
+162.158.146.85 0 1 9833 
+108.162.229.237 0 1 114885 
+162.158.202.251 0 1 9911 
+172.245.80.5 2 2 1246 20200322140927
+162.158.79.14 2 2 508 20200322191510
+172.68.63.104 2 2 154324 20200330095832
+162.158.38.11 1 1 3196 20200325041920
+172.69.63.106 0 1 5317 
+172.69.63.94 0 1 3447 
+162.158.155.17 0 1 45707 
+108.162.216.229 0 2 60178 
+188.114.103.62 0 1 36170 
+141.101.77.215 1 1 3618 20200331110959
+65.154.226.109 1 1 313 20200318223112
+172.68.211.223 1 1 3196 20200325103244
+162.158.79.248 0 1 5354 
+108.162.212.176 2 2 6380 20200329144934
+188.114.102.19 1 2 13960 20200331144655
+188.114.103.134 0 1 19597 
+172.68.132.26 1 1 3618 20200331054152
+159.89.111.196 1 1 623 20200318075030
+108.162.221.108 0 1 46353 
+172.68.94.61 0 4 8994 
+141.101.69.64 1 1 3347 20200323222608
+108.162.216.207 0 4 90802 
+172.68.94.85 0 3 61073 
+172.68.63.50 1 3 7472 20200330122153
+172.69.55.19 0 1 1918 
+162.158.111.201 0 1 1364 
+141.101.69.4 3 3 6950 20200323021327
+108.162.221.102 0 2 80719 
+141.101.69.164 0 1 400309 
+172.68.62.109 0 1 36170 
+141.101.105.213 0 1 2153 
+108.162.241.29 1 1 0 20200330225111
+162.158.74.70 0 2 49806 
+162.158.118.89 1 1 3623 20200330121230
+172.69.62.43 1 1 254 20200322191509
+162.158.74.254 2 2 154324 20200327033708
+172.69.55.73 0 2 4604 
+172.69.54.108 1 1 41434 20200322224200
+162.158.255.219 2 2 7240 20200331001448
+172.68.94.145 3 3 273105 20200330100546
+172.69.54.66 2 2 82868 20200331111000
+172.69.62.109 1 1 257 20200322191508
+167.114.233.118 1 1 313 20200319020332
+162.158.106.159 0 1 1841 
+34.245.212.171 1 1 313 20200322191117
+173.245.54.232 1 1 256 20200322191507
+172.68.94.235 0 2 799 
+172.69.70.26 0 1 36170 
+172.69.71.93 0 2 173725 
+83.43.60.106 1 1 313 20200319220914
+141.101.104.142 0 1 1841 
+108.162.229.35 0 2 1598 
+172.69.71.67 0 1 400309 
+108.162.246.56 1 1 0 20200322191504
+162.158.255.67 2 2 7237 20200330223343
+162.158.107.184 0 1 2153 
+162.158.119.88 1 1 3628 20200330121230
+172.69.55.205 0 1 36170 
+162.158.202.121 0 1 799 
+141.101.77.59 0 1 6607 
+172.68.63.108 0 1 19597 
+172.68.141.31 2 2 7240 20200330205617
+34.219.112.123 1 1 313 20200318034924
+172.69.54.162 0 1 24903 
+162.158.118.157 1 1 3624 20200330121229
+45.58.123.236 1 1 313 20200317110820
+172.68.62.79 0 2 34424 
+162.158.159.13 0 1 3512 
+172.69.55.49 0 1 51265 
+141.101.104.104 2 3 51644 20200323202017
+162.158.93.54 1 1 0 20200331203023
+108.162.229.207 1 1 3619 20200331155751
+172.69.34.141 1 1 3196 20200327033705
+173.245.54.122 0 1 1926 
+172.68.63.110 0 1 10342 
+108.162.241.39 1 1 0 20200330225111
+54.190.29.34 1 1 314 20200318040116
+141.101.76.157 0 1 46353 
+23.227.133.226 1 1 313 20200317082018
+162.158.38.103 0 14 482220 
+195.154.63.222 1 1 623 20200319021339
+141.101.76.25 0 1 9833 
+108.162.250.60 1 1 3620 20200331214710
+108.162.216.37 0 2 20730 
+172.69.68.222 0 2 27743 
+141.101.76.13 0 2 10634 
+141.101.105.27 1 1 3347 20200323201921
+172.68.94.91 0 2 30089 
+172.68.62.73 0 3 36089 
+141.101.77.203 1 1 125664 20200323201939
+172.68.62.103 0 1 45707 
+188.114.102.181 0 2 82115 
+172.69.70.200 0 2 41620 
+108.162.229.179 2 2 83368 20200331215621
+141.101.69.74 0 1 20810 
+172.69.63.210 0 1 3240 
+172.69.63.170 1 1 257 20200322191508
+162.158.78.163 1 1 256 20200322191507
+173.245.54.116 1 1 256 20200322191510
+141.101.104.126 0 1 3512 
+172.68.94.223 0 2 20810 
+65.154.226.100 2 2 626 20200318223033
+128.90.146.45 1 1 313 20200319073713
+185.104.248.7 2 2 623 20200321172852
+172.68.230.55 1 1 3625 20200331190923
+172.68.62.37 0 1 5547 
+172.68.62.49 0 1 5354 
+162.158.106.75 1 1 3347 20200323182153
+3.17.210.127 1 1 313 20200319195203
+141.101.69.116 1 1 3623 20200330125011
+108.162.241.197 2 2 0 20200330225112
+108.162.216.231 1 1 3619 20200331122136
+141.101.76.79 1 1 41684 20200323201934
+188.114.103.214 0 1 5317 
+54.188.19.252 1 1 313 20200320030435
+141.101.104.74 0 1 17382 
+172.69.22.251 1 1 3622 20200331035630
+162.158.79.116 0 2 40407 
+172.68.141.187 3 3 10854 20200331055409
+162.158.111.40 1 1 3349 20200322224157
+141.101.69.130 0 1 17382 
+173.245.54.86 3 3 8366 20200326041422
+162.158.203.6 1 1 3618 20200331070309
+162.158.106.165 1 1 3196 20200327033706
+162.158.38.9 0 32 104587 
+35.225.105.171 3 3 1869 20200318121957
+172.69.54.30 0 1 1841 
+108.162.221.192 0 2 8748 
+172.69.63.64 1 1 254 20200322191509
+141.101.69.44 0 1 29065 
+172.69.90.61 1 1 3132 20200328201556
+172.69.54.192 0 1 801 
+141.101.107.201 0 1 24591 
+162.158.38.47 2 11 181135 20200331095512
+141.101.99.164 0 1 20810 
+104.238.217.123 1 1 623 20200318110820
+162.158.107.10 0 1 1364 
+172.68.65.129 2 2 510 20200322191511
+141.101.76.109 0 2 173725 
+162.158.106.15 1 1 125664 20200323182157
+172.68.62.61 2 3 136163 20200330100340
+162.158.79.194 0 2 60178 
+141.101.69.176 0 1 81316 
+188.114.103.146 0 1 17382 
+172.68.47.111 1 1 3620 20200331110944
+172.68.189.52 1 1 3618 20200331055352
+162.158.107.202 0 1 3512 
+162.158.74.170 2 2 82868 20200327033708
+141.101.69.158 0 2 19666 
+172.68.62.187 0 3 11433 
+172.68.94.109 0 1 46353 
+172.68.141.151 1 1 3619 20200331055409
+172.69.63.228 1 1 256 20200322191508
+172.68.132.156 1 1 3196 20200327155639
+54.187.69.20 1 1 313 20200319180850
+188.114.102.247 0 1 3447 
+116.203.153.141 0 14 1065 
+172.68.189.76 3 3 10012 20200330214933
+173.245.54.158 2 2 512 20200322191508
+173.245.54.180 1 1 256 20200322191505
+141.101.69.58 0 1 36170 
+172.68.254.238 1 1 3619 20200331132350
+103.121.60.67 2 2 1246 20200320093604
+23.102.26.43 2 2 1246 20200319143422
+162.158.202.237 0 1 30089 
+34.210.110.60 1 1 311 20200318034903
+172.69.22.107 2 2 7243 20200330224505
+172.69.68.184 0 2 86719 
+141.101.69.72 0 1 3512 
+141.101.69.156 0 4 162708 
+172.68.94.7 0 2 4249 
+173.245.54.196 1 1 257 20200322191509
+173.245.54.176 1 1 3196 20200327234421
+172.69.68.148 2 2 121874 20200331072146
+188.114.103.176 0 1 9833 
+173.245.54.40 1 1 3198 20200325080756
+54.202.50.91 1 1 313 20200322063813
+34.217.73.27 1 1 313 20200320033142
+188.114.103.128 0 1 51265 
+108.162.221.228 0 2 140520 
+162.158.106.135 0 2 3852 
+162.158.159.47 0 1 30089 
+141.101.104.154 0 1 1926 
+172.68.142.182 1 1 3629 20200330190036
+18.219.118.7 1 1 313 20200322155631
+162.158.59.131 1 1 3196 20200325041737
+172.68.94.19 0 1 114885 
+162.158.38.29 1 19 366591 20200329003504
+188.114.103.220 0 1 400309 
+172.68.230.43 1 1 3628 20200331120007
+108.162.229.163 1 1 3347 20200323191259
+141.101.77.89 0 1 3447 
+172.68.62.115 0 1 114885 
+162.158.74.46 2 4 8834 20200331030918
+172.69.63.8 1 1 254 20200322191509
+141.101.105.146 1 2 156569 20200322224200
+162.158.202.145 1 1 3629 20200331221631
+173.245.54.142 1 1 254 20200322191510
+141.101.104.122 0 1 92409 
+162.158.183.146 1 1 3617 20200330190411
+162.158.111.4 0 3 439503 
+162.158.146.7 1 2 45131 20200330121001
+172.68.62.55 1 1 41434 20200330095832
+162.158.202.37 0 1 9833 
+162.158.107.112 0 1 9425 
+162.158.63.113 3 3 8826 20200323213336
+141.101.105.105 0 1 20810 
+172.68.189.34 1 1 3624 20200330185359
+172.69.69.225 2 2 122156 20200331072147
+108.162.246.146 0 1 5317 
+141.101.76.241 0 2 60178 
+141.101.105.85 1 2 43610 20200331111000
+172.69.63.252 1 1 254 20200322191510
+172.68.189.202 1 1 3626 20200330174812
+162.158.74.48 0 2 3852 
+108.162.229.173 2 2 82868 20200331215622
+141.101.69.104 0 2 39194 
+141.101.105.249 0 1 799 
+54.201.20.55 1 1 313 20200321062428
+172.68.94.211 0 5 151974 
+94.47.93.11 1 1 12504 20200322190812
+188.114.111.38 1 1 3196 20200326011527
+54.200.232.180 1 1 313 20200318033349
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20200316 1 1 12518 1
+20200317 6 23 3192 6
+20200318 86 86 32411 23
+20200319 50 50 24005 21
+20200320 32 32 9056 9
+20200321 31 31 7190 9
+20200322 43 59 496927 39
+20200323 27 60 1242574 20
+20200324 4 20 470933 4
+20200325 9 25 486915 9
+20200326 7 11 63797 5
+20200327 19 66 1439125 19
+20200328 12 49 1300206 12
+20200329 25 103 2802433 19
+20200330 81 183 3987549 54
+20200331 66 209 4832860 63
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 2
+0s-30s 303
+30mn-1h 6
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 24
+/ 377 529537 223 217
+/fonts/NotoKufiArabic-Bold.ttf 25 997520 25 25
+/fonts/NotoKufiArabic-Regular.ttf 25 991988 22 24
+/fonts/fontawesome-webfont.woff2 24 1697562 24 23
+/MainCourse/Programming 8 21809 3 0
+/fonts/NotoNaskhArabic-Regular.ttf 6 753984 6 6
+/css/fonts/devicon.woff 5 475124 2 3
+/Courses/Programming/php 4 12076 0 0
+/cpanel 3 37526 3 3
+/MainCourse/Desgin 3 7551 0 2
+/Courses/Programming/PHP/php-oop-cliprz/1 2 7684 0 1
+/Courses/Programming/php/Learn-PHP-5-In-Arabic 2 14006 0 0
+/.env 2 1088 1 2
+/Courses/Programming/php/Learn-PHP-5-In-Arabic/2 2 16150 1 2
+/Courses/Programming/PHP/php-oop-cliprz 2 7328 0 0
+/Courses/Programming/php/php-oop-cliprz/1 1 3839 1 0
+/index.php 1 3617 1 1
+/Courses/Programming/php/Learn-PHP-5-In-Arabic/3 1 7906 1 0
+/Courses/Programming/php/php-oop-cliprz/3 1 3864 0 1
+/Courses/Programming/php/php-oop-cliprz 1 3662 0 0
+/Courses/Programming/php/Learn-PHP-5-In-Arabic/1 1 8195 0 1
+/Courses/Programming/PHP 1 3140 0 1
+/Courses/Programming/html-5 1 2407 0 0
+/fonts/fontawesome-webfont.woff 1 97913 0 1
+END_SIDER

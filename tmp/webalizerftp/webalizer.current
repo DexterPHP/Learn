@@ -1,0 +1,587 @@
+# Webalizer V2.23-08 Incremental Data - 04/23/2020 13:33:01
+2020 4 23 13 33 1
+964 964 14 213 0 0 16524142 25 15 1
+1 3 211 1 23
+345 345 8250033 2 9 6
+42 42 424290 3 2 2
+0 0 0 0 0 0
+185 185 4256528 2 5 3
+344 344 2708155 1 8 3
+2 2 46810 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+32 32 429583 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 4 63235 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 52772 1 0 0
+2 2 103123 1 0 0
+3 3 99514 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 3 90099 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 3 31071 0
+93 93 5963079 1
+10 10 216225 0
+35 35 366403 1
+133 133 2154903 4
+89 89 228115 2
+19 19 69173 1
+124 124 1070500 2
+7 7 66275 0
+235 235 1779520 8
+25 25 254389 1
+98 98 2656714 1
+73 73 1594937 3
+20 20 72838 1
+0
+0
+0
+964
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/wikicourses/resources/views/welcome.blade.php
+0 20 0 59060 0 0
+/home/wikicourses/public_html/images/byV_elXt0ZM.jpg
+0 2 0 31268 0 0
+/home/wikicourses/public_html/images/P99IlJXjKL8.jpg
+0 2 0 32498 0 0
+/home/wikicourses/routes/console.php
+0 6 0 3558 0 0
+/home/wikicourses/public_html/css/devicon.min.css
+0 2 0 46540 0 0
+/home/wikicourses/config/view.php
+0 5 0 5265 0 0
+/home/wikicourses/config/session.php
+0 5 0 34900 0 0
+/home/wikicourses/public_html/images/5_PYLvZ9OVM.jpg
+0 2 0 37626 0 0
+/home/wikicourses/public_html/images/ArcLyt_2NKU.jpg
+0 1 0 13513 0 0
+/home/wikicourses/public_html/images/eD4yMI-IR8g.jpg
+0 2 0 52226 0 0
+/home/wikicourses/public_html/css/fonts/fontawesome-webfont-1.eot
+0 1 0 165742 0 0
+/home/wikicourses/public_html/css/fonts/glyphicons-halflings-regular.svg
+0 1 0 108738 0 0
+/home/wikicourses/public_html/css/materialdesignicons.min.css
+0 2 0 335638 0 0
+/home/wikicourses/public_html/images/3QC6Zpz3As4.jpg
+0 2 0 8550 0 0
+/home/wikicourses/config/cors.php
+0 5 0 4115 0 0
+/home/wikicourses/app/Http/Controllers/HomeController.php
+0 7 0 6566 0 0
+/home/wikicourses/public_html/images/2.jpg
+0 2 0 364019 0 0
+/home/wikicourses/public_html/js/jquery.min.js
+0 1 0 86719 0 0
+/home/wikicourses/public_html/css/fonts/glyphicons-halflings-regular.woff2
+0 1 0 18028 0 0
+/home/wikicourses/public_html/css/bootstrap.min.css
+0 2 0 241846 0 0
+/home/wikicourses/config/logging.php
+0 5 0 14480 0 0
+/home/wikicourses/public_html/images/mZURvawqCFc.jpg
+0 1 0 14553 0 0
+/home/wikicourses/app/Http/Controllers/CourseController.php
+0 7 0 68222 0 0
+/home/wikicourses/config/services.php
+0 5 0 4750 0 0
+/home/wikicourses/app/Http/Controllers/Auth/ForgotPasswordController.php
+0 7 0 4669 0 0
+/home/wikicourses/public_html/images/0.jpg
+0 2 0 796964 0 0
+/home/wikicourses/public_html/images/w6JqPsVP7Ps.jpg
+0 3 0 37908 0 0
+/home/wikicourses/public_html/images/intro-bg.jpg
+0 1 0 87340 0 0
+/home/wikicourses/public_html/css/fonts/materialdesignicons-webfont.eot
+0 1 0 581096 0 0
+/home/wikicourses/app/Http/Middleware/Authenticate.php
+0 7 0 3283 0 0
+/home/wikicourses/public_html/js/bootstrap.min.js
+0 1 0 37045 0 0
+/home/wikicourses/public_html/css/bootstrap.rtl.css
+0 2 0 48592 0 0
+/home/wikicourses/public_html/images/swEHEPj0zvs.jpg
+0 3 0 46305 0 0
+/home/wikicourses/public_html/images/g153XwFvRYg.jpg
+0 2 0 40972 0 0
+/home/wikicourses/public_html/
+0 1 0 1823 1 0
+/home/wikicourses/public_html/images/pvuTWsDw-XI.jpg
+0 2 0 47728 0 0
+/home/wikicourses/public_html/css/fonts/devicon-1.eot
+0 1 0 207888 0 0
+/home/wikicourses/public_html/css/fonts/glyphicons-halflings-regular.woff
+0 1 0 23424 0 0
+/home/wikicourses/resources/views/view_course.blade.php
+0 20 0 167480 0 0
+/home/wikicourses/config/auth.php
+0 5 0 18980 0 0
+/home/wikicourses/public_html/images/DftlOK7fCtc.jpg
+0 1 0 15209 0 0
+/home/wikicourses/app/Exceptions/Handler.php
+0 7 0 7987 0 0
+/home/wikicourses/public_html/images/0w2d4z_Yvks.jpg
+0 1 0 9750 0 0
+/home/wikicourses/app/Http/Controllers/Contactus.php
+0 2 0 1200 0 0
+/home/wikicourses/public_html/images/95R757URa1w.jpg
+0 2 0 23860 0 0
+/home/wikicourses/public_html/images/logo-mobile.png
+0 1 0 12803 0 0
+/home/wikicourses/public_html/css/fonts/devicon.ttf
+0 1 0 207724 0 0
+/home/wikicourses/public_html/images/fFMuTHTLjTU.jpg
+0 1 0 16021 0 0
+/home/wikicourses/public_html/images/63WFLqeqtWU.jpg
+0 2 0 30808 0 0
+/home/wikicourses/public_html/images/hsGdS4yxSqU.jpg
+0 2 0 41540 0 0
+/home/wikicourses/resources/views/main/index2.blade.php
+0 24 0 85336 0 0
+/home/wikicourses/config/broadcasting.php
+0 5 0 8005 0 0
+/home/wikicourses/public_html/images/YuQ4qgdc0rs.jpg
+0 1 0 10314 0 0
+/home/wikicourses/public_html/images/Rz57L5iROmQ.jpg
+0 1 0 11710 0 0
+/home/wikicourses/resources/views/main/privacy-policy.blade.php
+0 8 0 15400 0 0
+/home/wikicourses/public_html/images/Rpd5uDXwpsU.jpg
+0 3 0 63924 0 0
+/home/wikicourses/app/Http/Middleware/EncryptCookies.php
+0 7 0 2058 0 0
+/home/wikicourses/app/Http/Controllers/Auth/VerificationController.php
+0 7 0 7910 0 0
+/home/wikicourses/public_html/images/JLm1ELLqJkA.jpg
+0 1 0 10551 0 0
+/home/wikicourses/public_html/js/rating.js
+0 1 0 3105 0 0
+/home/wikicourses/public_html/images/3rP7gy9lD2E.jpg
+0 2 0 37378 0 0
+/home/wikicourses/public_html/images/74VQ_JmJXzI.jpg
+0 2 0 69680 0 0
+/home/wikicourses/public_html/css/fonts/NotoKufiArabic-Bold.ttf
+0 1 0 80472 0 0
+/home/wikicourses/public_html/css/fonts/fontawesome-webfont.woff
+0 1 0 98024 0 0
+/home/wikicourses/public_html/images/Marketing.jpg
+0 1 0 88485 0 0
+/home/wikicourses/app/Http/Controllers/MyFunction.php
+0 7 0 2030 0 0
+/home/wikicourses/resources/views/search_index.blade.php
+0 19 0 70812 0 0
+/home/wikicourses/public_html/images/1231750_f428.jpg
+0 1 0 44436 0 0
+/home/wikicourses/public_html/images/8RaJ4B0kNnk.jpg
+0 2 0 36806 0 0
+/home/wikicourses/public_html/images/1547948_cb07.jpg
+0 1 0 39349 0 0
+/home/wikicourses/resources/views/views/course.blade.php
+0 1 0 3928 0 0
+/home/wikicourses/public_html/css/slider.css
+0 2 0 3776 0 0
+/home/wikicourses/public_html/css/fonts/materialdesignicons-webfont.woff2
+0 1 0 204324 0 0
+/home/wikicourses/public_html/images/77IK9T45kiU.jpg
+0 2 0 207050 0 0
+/home/wikicourses/routes/web.php
+0 6 0 8119 0 0
+/home/wikicourses/public_html/images/Eu8FeYKyU14.jpg
+0 1 0 11226 0 0
+/home/wikicourses/routes/channels.php
+0 6 0 3306 0 0
+/home/wikicourses/public_html/css/fonts/glyphicons-halflings-regular.eot
+0 2 0 20127 0 0
+/home/wikicourses/app/Http/Controllers/SubCaterController.php
+0 7 0 8920 0 0
+/home/wikicourses/app/Http/Middleware/TrimStrings.php
+0 7 0 2380 0 0
+/home/wikicourses/public_html/images/programin.jpg
+0 1 0 581428 0 0
+/home/wikicourses/public_html/images/By6yamGh4Fc.jpg
+0 1 0 12094 0 0
+/home/wikicourses/app/Http/Controllers/Auth/LoginController.php
+0 7 0 7014 0 0
+/home/wikicourses/resources/views/home.blade.php
+0 20 0 12520 0 0
+/home/wikicourses/public_html/images/uwAu5X_-7kQ.jpg
+0 1 0 29613 0 0
+/home/wikicourses/public_html/images/g9WwJgqr4kU.jpg
+0 1 0 30748 0 0
+/home/wikicourses/public_html/js/html5shiv.min.js
+0 1 0 41649 0 0
+/home/wikicourses/public_html/css/style.css
+0 12 0 850146 0 0
+/home/wikicourses/public_html/images/d1b2-99QzEo.jpg
+0 2 0 26416 0 0
+/home/wikicourses/public_html/images/JO-ygfZ_V8E.jpg
+0 2 0 16560 0 0
+/home/wikicourses/resources/views/auth/passwords/email.blade.php
+0 20 0 38280 0 0
+/home/wikicourses/public_html/images/hb8NXEHOQqc.jpg
+0 2 0 70956 0 0
+/home/wikicourses/app/Http/Controllers/Auth/ConfirmPasswordController.php
+0 7 0 7168 0 0
+/home/wikicourses/public_html/images/OFAn1DNUPMA.jpg
+0 1 0 13751 0 0
+/home/wikicourses/public_html/images/-u9_T_CLZHY.jpg
+0 2 0 13050 0 0
+/home/wikicourses/app/Providers/BroadcastServiceProvider.php
+0 7 0 2660 0 0
+/home/wikicourses/public_html/images/eKuNnpWhm7c.jpg
+0 2 0 35644 0 0
+/home/wikicourses/app/Providers/RouteServiceProvider.php
+0 7 0 11606 0 0
+/home/wikicourses/public_html/images/ivTeEmU93ro.jpg
+0 2 0 69306 0 0
+/home/wikicourses/app/Models/MainCater.php
+0 7 0 2332 0 0
+/home/wikicourses/public_html/images/9w1jLen1lRU.jpg
+0 2 0 27176 0 0
+/home/wikicourses/resources/views/layouts/app.blade.php
+0 20 0 70440 0 0
+/home/wikicourses/public_html/images/mAi1SVqca1c.jpg
+0 1 0 17197 0 0
+/home/wikicourses/config/cache.php
+0 5 0 15500 0 0
+/home/wikicourses/app/Http/Controllers/MainCaterController.php
+0 7 0 11942 0 0
+/home/wikicourses/public_html/images/ZF4JynSutw0.jpg
+0 1 0 31194 0 0
+/home/wikicourses/public_html/css/fonts/devicon.eot
+0 1 0 207888 0 0
+/home/wikicourses/public_html/css/error_page.css
+0 2 0 8234 0 0
+/home/wikicourses/resources/views/main/Error_page.blade.php
+0 20 0 16980 0 0
+/home/wikicourses/public_html/images/52R9APHOx18.jpg
+0 1 0 31172 0 0
+/home/wikicourses/public_html/images/1830796_16bf_16.jpg
+0 1 0 27665 0 0
+/home/wikicourses/public_html/images/tDsdNS_kyCg.jpg
+0 2 0 21522 0 0
+/home/wikicourses/public_html/js/respond.min.js
+0 1 0 42856 0 0
+/home/wikicourses/public_html/images/wikicourses.png
+0 1 0 20810 0 0
+/home/wikicourses/public_html/images/e3bKWGh5A-M.jpg
+0 1 0 14424 0 0
+/home/wikicourses/public_html/images/52s6c4kYx-Y.jpg
+0 2 0 25704 0 0
+/home/wikicourses/public_html/js/app.js
+0 1 0 1456248 0 0
+/home/wikicourses/public_html/images/zkARbMlweO0.jpg
+0 1 0 7189 0 0
+/home/wikicourses/public_html/images/1432740_9f7d_3.jpg
+0 1 0 14638 0 0
+/home/wikicourses/resources/views/auth/verify.blade.php
+0 20 0 22680 0 0
+/home/wikicourses/config/app.php
+0 5 0 46765 0 0
+/home/wikicourses/public_html/images/Iu1T7j2FA4M.jpg
+0 2 0 124060 0 0
+/home/wikicourses/public_html/images/GT58LOLcfvY.jpg
+0 2 0 42010 0 0
+/home/wikicourses/public_html/css/fonts/materialdesignicons-webfont.ttf
+0 1 0 580876 0 0
+/home/wikicourses/app/Console/Kernel.php
+0 7 0 5789 0 0
+/home/wikicourses/public_html/images/727540_b7dd_2.jpg
+0 1 25322720 30808 0 0
+/home/wikicourses/app/Models/SubCater.php
+0 7 0 2303 0 0
+/home/wikicourses/public_html/images/framework.jpg
+0 1 0 204249 0 0
+/home/wikicourses/resources/views/views/home.blade.php
+0 1 0 626 0 0
+/home/wikicourses/app/Http/Middleware/TrustProxies.php
+0 7 0 3052 0 0
+/home/wikicourses/public_html/images/xdP41CiqBXc.jpg
+0 2 0 35908 0 0
+/home/wikicourses/public_html/images/2465272_dd22_3.jpg
+0 1 25322576 19942 0 0
+/home/wikicourses/app/Http/Middleware/VerifyCsrfToken.php
+0 7 0 2149 0 0
+/home/wikicourses/config/database.php
+0 5 0 25270 0 0
+/home/wikicourses/app/Providers/AppServiceProvider.php
+0 7 0 3311 0 0
+/home/wikicourses/public_html/images/D7m-cb5nDk8.jpg
+0 2 0 109880 0 0
+/home/wikicourses/public_html/css/fonts/fontawesome-webfont.woff2
+0 1 0 77160 0 0
+/home/wikicourses/resources/views/main/contact.blade.php
+0 5 0 17305 0 0
+/home/wikicourses/public_html/css/fonts/glyphicons-halflings-regular.ttf
+0 1 0 45404 0 0
+/home/wikicourses/app/Models/Course.php
+0 7 0 2597 0 0
+/home/wikicourses/public_html/images/0gB-YytQHBY.jpg
+0 2 0 24332 0 0
+/home/wikicourses/resources/views/auth/passwords/confirm.blade.php
+0 20 0 41500 0 0
+/home/wikicourses/public_html/css/fonts/fontawesome-webfont.ttf
+0 1 0 165548 0 0
+/home/wikicourses/public_html/images/rzqjYKyciUM.jpg
+0 1 0 23596 0 0
+/home/wikicourses/public_html/images/Z8t9rwAF9LM.jpg
+0 2 0 32980 0 0
+/home/wikicourses/public_html/images/OKceUrQEy5I.jpg
+0 2 0 35262 0 0
+/home/wikicourses/config/hashing.php
+0 5 0 7855 0 0
+/home/wikicourses/resources/views/auth/passwords/reset.blade.php
+0 20 0 60400 0 0
+/home/wikicourses/public_html/.env
+0 7 0 6514 0 0
+/home/wikicourses/public_html/images/wikicourses-white.png
+0 1 0 11774 0 0
+/home/wikicourses/public_html/css/plyr.css
+0 2 0 49686 0 0
+/home/wikicourses/public_html/images/networking.jpg
+0 1 0 112364 0 0
+/home/wikicourses/public_html/images/2188182_6d2f_2.jpg
+0 1 0 23484 0 0
+/home/wikicourses/public_html/images/urQihL3GTnw.jpg
+0 2 0 61464 0 0
+/home/wikicourses/config/mail.php
+0 5 0 16540 0 0
+/home/wikicourses/public_html/css/font-awesome.min.css
+0 2 0 47006 0 0
+/home/wikicourses/public_html/images/nuptD4mowuI.jpg
+0 2 0 28554 0 0
+/home/wikicourses/app/Providers/AuthServiceProvider.php
+0 7 0 4046 0 0
+/home/wikicourses/resources/views/viewSub.blade.php
+0 23 0 26944 0 0
+/home/wikicourses/public_html/css/fonts/devicon.woff
+0 1 0 207800 0 0
+/home/wikicourses/public_html/css/fonts/materialdesignicons-webfont.woff
+0 1 0 279944 0 0
+/home/wikicourses/public_html/js/plugins.js
+0 3 0 19462 0 0
+/home/wikicourses/public_html/images/C1632hokN08.jpg
+0 2 0 26130 0 0
+/home/wikicourses/public_html/images/krd9-gZ828c.jpg
+0 1 0 16986 0 0
+/home/wikicourses/public_html/images/2707184_4c5e.jpg
+0 1 0 25107 0 0
+/home/wikicourses/public_html/images/ctEAYHFcbHk.jpg
+0 1 0 21856 0 0
+/home/wikicourses/public_html/js/youtube.js
+0 1 0 4837 0 0
+/home/wikicourses/public_html/images/mutaz_net.png
+0 1 0 51265 0 0
+/home/wikicourses/config/youtube.php
+0 5 0 2435 0 0
+/home/wikicourses/app/Providers/EventServiceProvider.php
+0 7 0 4970 0 0
+/home/wikicourses/app/Http/Middleware/RedirectIfAuthenticated.php
+0 7 0 4074 0 0
+/home/wikicourses/public_html/css/fonts/glyphicons-halflings-regular-1.eot
+0 1 0 20127 0 0
+/home/wikicourses/app/Http/Controllers/Auth/ResetPasswordController.php
+0 7 0 5908 0 0
+/home/wikicourses/app/Http/Middleware/CheckForMaintenanceMode.php
+0 7 0 2345 0 0
+/home/wikicourses/public_html/images/Bw9N_1Wx6s4.jpg
+0 1 0 14264 0 0
+/home/wikicourses/public_html/css/fonts/fontawesome-webfont.svg
+0 1 0 444379 0 0
+/home/wikicourses/public_html/js/main.js
+0 2 0 4498 0 0
+/home/wikicourses/public_html/.htaccess
+0 1 0 1179 0 0
+/home/wikicourses/public_html/images/kqDff3VmANY.jpg
+0 2 0 41582 0 0
+/home/wikicourses/public_html/images/gn3YCvYmk5c.jpg
+0 2 0 23128 0 0
+/home/wikicourses/public_html/css/fonts/fontawesome-webfont.eot
+0 1 0 165742 0 0
+/home/wikicourses/app/Http/Controllers/Auth/RegisterController.php
+0 7 0 13650 0 0
+/home/wikicourses/config/filesystems.php
+0 5 0 13205 0 0
+/home/wikicourses/public_html/images/gkR-0SXuYK0.jpg
+0 2 0 21304 0 0
+/home/wikicourses/public_html/images/j4f5D80gxy8.jpg
+0 2 0 31462 0 0
+/home/wikicourses/public_html/images/oK4DaVxrSdY.jpg
+0 2 0 20220 0 0
+/home/wikicourses/public_html/css/fonts/materialdesignicons-webfont-1.eot
+0 1 0 581096 0 0
+/home/wikicourses/resources/views/course.blade.php
+0 20 0 81438 0 0
+/home/wikicourses/config/queue.php
+0 5 0 13800 0 0
+/home/wikicourses/app/User.php
+0 7 0 5138 0 0
+/home/wikicourses/resources/views/auth/login.blade.php
+0 20 0 67560 0 0
+/home/wikicourses/public_html/images/i19hUJ4oPNU.jpg
+0 2 0 24824 0 0
+/home/wikicourses/public_html/images/RQMvTnQj2Rs.jpg
+0 2 0 21354 0 0
+/home/wikicourses/resources/views/pages/Main_footer.blade.php
+0 24 0 107813 0 0
+/home/wikicourses/public_html/js/plyr.js
+0 1 0 116082 0 0
+/home/wikicourses/public_html/css/loader.css
+0 1 0 0 0 0
+/home/wikicourses/public_html/images/cMW4963o6Qo.jpg
+0 2 0 57150 0 0
+/home/wikicourses/resources/views/pages/Main_header.blade.php
+0 24 0 111371 0 0
+/home/wikicourses/public_html/images/1.jpg
+0 2 0 667290 0 0
+/home/wikicourses/app/Http/Controllers/Controller.php
+0 7 0 2527 0 0
+/home/wikicourses/public_html/images/logo.png
+0 1 0 12803 0 0
+/home/wikicourses/public_html/css/app.css
+0 2 0 363068 0 0
+/home/wikicourses/public_html/css/fonts/NotoNaskhArabic-Bold.ttf
+0 1 0 224128 0 0
+/home/wikicourses/public_html/images/2282728_ef6b_5.jpg
+0 1 0 31594 0 0
+/home/wikicourses/app/Http/Kernel.php
+0 7 0 16905 0 0
+/home/wikicourses/resources/views/auth/register.blade.php
+0 20 0 73440 0 0
+/home/wikicourses/public_html/css/fonts/NotoNaskhArabic-Regular.ttf
+0 1 0 255280 0 0
+/home/wikicourses/public_html/images/VMOnVLOsayg.jpg
+0 2 0 30218 0 0
+/home/wikicourses/resources/views/main/
+0 24 0 176661 14 9
+/home/wikicourses/public_html/css/fonts/NotoKufiArabic-Regular.ttf
+0 1 0 80440 0 0
+/home/wikicourses/resources/views/view_lesson.blade.php
+0 21 0 251434 0 0
+/home/wikicourses/resources/views/main/Loader.blade.php
+0 13 0 0 0 0
+/home/wikicourses/routes/api.php
+0 6 0 3396 0 0
+# End Of Table - urls
+# -sites- (monthly)
+145.249.23.78
+0 3 3 3933 1 1586548297
+/home/wikicourses/public_html/
+45.58.126.217
+0 1 1 70212 0 0
+-
+5.0.91.29
+0 19 19 68446 1 1585838605
+/home/wikicourses/resources/views/main/
+45.58.126.213
+0 3 3 99514 0 0
+-
+198.50.235.193
+0 70 70 1530122 1 1586040271
+/home/wikicourses/resources/views/main/
+5.155.216.209
+0 29 29 425650 0 0
+-
+145.249.22.168
+0 2 2 52772 0 0
+-
+94.47.92.48
+0 348 348 8465326 6 1585835670
+/home/wikicourses/resources/views/main/
+188.133.91.235
+0 3 3 90099 0 0
+-
+45.58.127.78
+0 2 2 103123 0 0
+-
+94.47.217.197
+0 4 4 63235 0 0
+-
+45.58.126.219
+0 19 19 70339 1 1585756052
+/home/wikicourses/resources/views/main/
+5.155.220.243
+0 459 459 5434561 5 1586119497
+/home/wikicourses/resources/views/main/
+5.155.92.139
+0 2 2 46810 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+188.133.91.235
+0 3 3 90099 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+wikicourses
+0 964 964 16524142 14 1586548297
+# End Of Table - usernames
